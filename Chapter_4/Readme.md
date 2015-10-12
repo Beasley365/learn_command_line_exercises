@@ -1,7 +1,15 @@
-Can you make a temp directory? 
+Can you cd into the temp directory? 
 
-    mkdir temp
+        mkdir temp
 
-Can you make a log directory in your class directory? 
+Why dont we go into the temp directory? 
 
-    mkdir -p
+        cd temp its in chapter 4 directory.
+    
+Can you go to the slash temp directory? 
+
+        cd temp/
+        
+Can you go to the slash temp slash log directory? 
+    
+        cd temp/ pwd
