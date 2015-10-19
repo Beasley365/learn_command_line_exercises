@@ -5,7 +5,7 @@ Can you put "This class is fun" into bar.txt?
 
 Can you put "Oh so much fun" into foo.txt?
 
-    "Oh so much fun" > foo.tx
+    echo "Oh so much fun" > foo.tx
 
     
 $|$  The | takes the output from the command on the left, and "pipes" it to the command on the right.
